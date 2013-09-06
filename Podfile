@@ -6,3 +6,4 @@ pod 'FXBlurView'  			# realtime blur view of background
 pod 'FXLabel'
 pod 'PPiFlatSegmentedControl'
 pod 'CMPopTipView'
+pod 'FlatUIKit'
